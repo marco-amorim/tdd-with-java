@@ -1,1 +1,1 @@
-# Small project for TDD practice
+# Simple project for TDD practice
